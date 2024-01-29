@@ -18,7 +18,7 @@ Contains custom functions:
 1. Variable save and load functions: `save_variable`, `load_variable`
 2. Coordinate transformation functions: `cor_to_ind`, `ind_to_cor`, `cor_to_nor`, `nor_to_cor`, `lat_to_cor`
 3. Image downsampling function: `image_downsampling`
-4. A* road extraction function
+4. A* road extraction function: `a_star_search`
 
 ### II. `my_ppo.py`
 Structure of the hybrid reinforcement learning based model
