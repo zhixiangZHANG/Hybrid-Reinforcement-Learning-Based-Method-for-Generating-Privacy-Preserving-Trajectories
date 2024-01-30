@@ -43,5 +43,5 @@ Mainly includes environment update, interaction with the agent, and reward defin
 - **train_df:** 80,000 randomly generated scenes from the map
 
 ### V. The .ipynb files
-- **train_agent.ipnyb:** Trainning Setting and Process
-- **test_agent.ipnyb:** Test the trained Agent
+- **train_agent.ipnyb:** Trainning Setting and Process. It will save the agent every 1000 episodes.
+- **test_agent.ipnyb:** Load and test the trained agents
